@@ -2,7 +2,7 @@
 
 This repo for Packet_Tracer Binary File for Arch Linux
 
-# Installation : 
+# first things install debtap : 
 
 to install just run one of these commands
 
@@ -26,3 +26,12 @@ Extract and make:
 
 also you can read [this repo](https://github.com/mmsaeed509/debtap) for helping
 
+
+# Converting Debian Binary Package to Arch Binary Package
+
+
+we will convert Packet_Tracer now 
+
+open up the terminal and change the directory to the Binary Package directory then run these commands
+
+1 `ls` to show the package
