@@ -16,12 +16,12 @@ or The solution is found here [main repo](https://aur.archlinux.org/packages/deb
 Download the [debtap snapshot](https://aur.archlinux.org/cgit/aur.git/snapshot/debtap.tar.gz) then 
 
 Extract and make:
-=================
+==================
 
-$ tar zvxf ~/Downloads/debtap.tar.gz -C ~/arch
-$ cd ~/arch/debtap
-$ makepkg -s
-$ sudo pacman -U debtap-3.1.4-2-any.pkg.tar.xz
+    $ tar zvxf ~/Downloads/debtap.tar.gz -C ~/arch
+    $ cd ~/arch/debtap 
+    $ makepkg -s 
+    $ sudo pacman -U debtap-3.1.4-2-any.pkg.tar.xz
 
 
 also you can read [this repo](https://github.com/mmsaeed509/debtap) for helping
