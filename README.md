@@ -7,4 +7,5 @@ This repo for Packet_Tracer Binary File for Arch Linux
 to install just run one of these commands
 
 `yay -S debtap`  if you use AUR package manager
+
 and `sudo pacman -S debtap` if you use Pacman package manager
