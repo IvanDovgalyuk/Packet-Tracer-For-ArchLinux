@@ -35,3 +35,12 @@ we will convert Packet_Tracer now
 open up the terminal and change the directory to the Binary Package directory then run these commands
 
 1 `ls` to show the package
+![1_ls](https://user-images.githubusercontent.com/62524855/128854991-7a2bf790-fb17-4a54-aca5-776c310ef1b0.png)
+
+
+
+
+
+
+
+
