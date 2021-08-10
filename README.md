@@ -64,17 +64,55 @@ write anything or gnu or keep it empty then press enter to continue
 ![7_license](https://user-images.githubusercontent.com/62524855/128857613-408909df-b188-46a4-b690-301939247c80.png)
 
 
-her press enter to continue
+8 her press enter to continue
 
 ![8_enter_to_continue](https://user-images.githubusercontent.com/62524855/128857688-23ff63c3-e333-421c-a600-9d086bbf99b0.png)
 
-successfully created
+9 successfully created
 
 ![9_successfully_created](https://user-images.githubusercontent.com/62524855/128857738-49e384c3-167b-434b-b3ee-cdc40d7695ba.png)
 
-package after installation
+10 the package after converting
 
 ![10_package](https://user-images.githubusercontent.com/62524855/128857829-20758a15-8ff8-4718-ae58-1a18f88fd69e.png)
+
+11 `ls` to show the new package
+
+![11_ls](https://user-images.githubusercontent.com/62524855/128858450-38bb72cf-20ed-4a65-9955-0971070bd633.png)
+
+12 now we can install the package 
+first thing , `chmod` to give permissions
+
+![12_chmod +x _ ls](https://user-images.githubusercontent.com/62524855/128858684-7988b43c-415d-48b5-8159-0d023501e4c4.png)
+
+13 now the package is ready to install 
+`sudo pacman -U packettracer-8.0.0-1-x86_64.pkg.tar.zst`
+
+![13_install](https://user-images.githubusercontent.com/62524855/128858881-275819c6-7865-413c-9adf-765c3d1129a2.png)
+
+14 the package after installation
+
+![Screenshot_117](https://user-images.githubusercontent.com/62524855/128859327-1533df7d-0ce9-4605-a312-e72480efabbe.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
