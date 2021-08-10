@@ -86,7 +86,7 @@ first thing , `chmod` to give permissions
 ![12_chmod +x _ ls](https://user-images.githubusercontent.com/62524855/128858684-7988b43c-415d-48b5-8159-0d023501e4c4.png)
 
 13 now the package is ready to install 
-`sudo pacman -U packettracer-8.0.0-1-x86_64.pkg.tar.zst`
+`sudo pacman -U <package_name>`
 
 ![13_install](https://user-images.githubusercontent.com/62524855/128858881-275819c6-7865-413c-9adf-765c3d1129a2.png)
 
