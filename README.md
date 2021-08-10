@@ -35,6 +35,7 @@ we will convert Packet_Tracer now
 open up the terminal and change the directory to the Binary Package directory then run these commands
 
 1 `ls` to show the package
+
 ![1_ls](https://user-images.githubusercontent.com/62524855/128856034-e38746c9-d65f-4392-910a-c8a11793451b.png)
 
 2 `chmod` to give permissions
