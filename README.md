@@ -48,7 +48,7 @@ open up the terminal and change the directory to the Binary Package directory th
 
 ![2_chmod +x ](https://user-images.githubusercontent.com/62524855/128855621-8f60d8e6-6d49-40d6-a88d-9079dcf973ff.png)
 
-3 `debtap` or `debtap -h`for help
+3 `debtap` or `debtap -h` for help
 
 ![3_debtap_help](https://user-images.githubusercontent.com/62524855/128855724-f7960f2b-179e-4771-95c4-f295c1986fd9.png)
 
