@@ -8,7 +8,7 @@
 
 This repo for Packet_Tracer Binary File for Arch Linux
 
-# first things install debtap : 
+# first thing install debtap : 
 
 to install just run one of these commands
 
@@ -99,30 +99,4 @@ first thing , `chmod` to give permissions
 14 the package after installation
 
 ![Screenshot_117](https://user-images.githubusercontent.com/62524855/128859327-1533df7d-0ce9-4605-a312-e72480efabbe.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
