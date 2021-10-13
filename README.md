@@ -1,4 +1,3 @@
-![640px-Cisco_logo svg](https://user-images.githubusercontent.com/62524855/131155895-1dbcfafa-e310-4e8c-9b21-bd9561910618.png)
 
 <img align="center" src="https://user-images.githubusercontent.com/62524855/131155895-1dbcfafa-e310-4e8c-9b21-bd9561910618.png">
 
