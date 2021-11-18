@@ -4,7 +4,7 @@
 
 
 
-# Cisco Packet Tracer ![Cisco_Packet_Tracer_Icon](https://user-images.githubusercontent.com/62524855/131155846-a456ba16-8060-4372-ad59-7bf58925277c.png)
+# Cisco Packet Tracer For Arch & Arch Based Distro![Cisco_Packet_Tracer_Icon](https://user-images.githubusercontent.com/62524855/131155846-a456ba16-8060-4372-ad59-7bf58925277c.png)
 
 
 This repo for Packet_Tracer Binary File for Arch Linux
