@@ -24,12 +24,12 @@ Download the [debtap snapshot](https://aur.archlinux.org/cgit/aur.git/snapshot/d
 
 Extract and make:
 ==================
-
+```bash
     $ tar zvxf ~/Downloads/debtap.tar.gz -C ~/arch
     $ cd ~/arch/debtap 
     $ makepkg -s 
     $ sudo pacman -U debtap-3.1.4-2-any.pkg.tar.xz
-
+```
 
 also you can read [this repo](https://github.com/mmsaeed509/debtap) for helping
 
